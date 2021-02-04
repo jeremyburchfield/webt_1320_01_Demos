@@ -1,4 +1,6 @@
 # Project Page
 
-<a href="lab1demo/index.html">Lab 1</a><br>
-<a href="lab2demo/index.html">Lab 2</a>
+<ul>
+    <li><a href="lab1demo/index.html">Lab 1</a></li>
+    <li><a href="lab2demo/index.html">Lab 2</a></li>
+</ul>
