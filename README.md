@@ -6,4 +6,5 @@
     <li><a href="lab3demo/index.html">Lab 3</a></li>
     <li><a href="lab4demo/index.html">Lab 4</a></li>
     <li><a href="midtermdemo/index.html">Mid-Term Demo - SWTOR</a></li>
+    <li><a href="midtermdemo/index.html">Mid-Term Demo - SWTOR</a></li>
 </ul>
