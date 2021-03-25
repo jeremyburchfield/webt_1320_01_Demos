@@ -165,4 +165,8 @@ footer {
     footer {
         border-radius: 0 0 20px 20px;
     }
+
+    .single_col {
+        width: 100%;
+    }
 }
